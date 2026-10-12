@@ -1,0 +1,22 @@
+Result: Administrator Actions
+
+1. Dashboard
+- Access Article Management.
+- Access Category Management.
+- Log out.
+
+2. Article Management
+- View the list of articles.
+- Add a new article.
+- Edit an existing article.
+- Delete an article.
+- Fill in the article form (Title, Image, Category, Content).
+- Save the article.
+
+3. Category Management
+- View the list of categories.
+- Add a new category.
+- Edit an existing category.
+- Delete a category.
+- Fill in the category form.
+- Save the category.
