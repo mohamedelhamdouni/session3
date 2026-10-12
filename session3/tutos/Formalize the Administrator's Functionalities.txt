@@ -1,0 +1,55 @@
+Formalize the Administrator's Functionalities
+
+
+
+1. Article Management
+
+The Administrator lists the articles.
+
+The Administrator adds an article.
+
+The Administrator edits an article.
+
+The Administrator deletes an article.
+
+
+
+2. Category Management
+
+The Administrator lists the categories.
+
+The Administrator adds a category.
+
+The Administrator edits a category.
+
+The Administrator deletes a category.
+
+
+
+3. Functional Path
+
+Feature: The Administrator adds a category.
+
+Actor: Administrator
+
+Starting Screen: Category Management Page
+
+Action: Clicks the "Add a category" button.
+
+Result: The category creation form is displayed.
+
+
+
+4. Functional Summary
+
+Actor
+
+Functionalities
+
+Administrator
+
+Article Management: List articles, add an article, edit an article, delete an article.
+
+Administrator
+
+Category Management: List categories, add a category, edit a category, delete a category.
