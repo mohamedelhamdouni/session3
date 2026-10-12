@@ -1,0 +1,24 @@
+# Observation of Occurrences and Repetitions
+
+## 1. Observed Values for Each Data Point
+
+Based on the table of five authors, the observed values are:
+
+- **`nom_auteur`**: Madani, Sara, Youssef, Amine, Nadia
+- **`prenom_auteur`**: Ali, Amrani, Karim, Idrissi, Alaoui
+- **`email_auteur`**: [madani@mail.com](mailto\:madani@mail.com), [sara@mail.com](mailto\:sara@mail.com), [youssef@mail.com](mailto\:youssef@mail.com), [amine@mail.com](mailto\:amine@mail.com), [nadia@mail.com](mailto\:nadia@mail.com)
+- **`nom_ville`**: Tangier, Tangier, Rabat, Tangier, Rabat
+- **`nom_categorie`**: Development, Development, News, Development, News
+
+## 2. Repeated Values
+
+- **`nom_auteur`**: No repeated values.
+- **`prenom_auteur`**: No repeated values.
+- **`email_auteur`**: No repeated values.
+- **`nom_ville`**: Tangier appears 3 times, and Rabat appears 2 times.
+- **`nom_categorie`**: Development appears 3 times, and News appears 2 times.
+
+## 3. Problem Caused by a Repetition
+
+If the name of the city Tangier had to be changed, we would need to update it in three different rows, and forgetting one row could lead to inconsistent data.
+
