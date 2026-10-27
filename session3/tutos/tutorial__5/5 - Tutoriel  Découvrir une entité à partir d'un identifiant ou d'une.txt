@@ -1,0 +1,24 @@
+In this table, we notice that the author's name "Madani" appears three times. The natural
+identifier of the author is `email_auteur`, which determines the author's last name and first name. 
+The functional dependency is: `email_auteur -> nom_auteur, prenom_auteur`.
+
+
+
+
+Next, the city names are repeated: "Tanger" appears three times, and "Rabat" appears
+twice. This allows us to discover the entity City (`Ville`), with a proposed identifier 
+called `id_ville`. Its functional dependency is: `id_ville -> nom_ville`.
+
+
+
+
+Finally, the category name "Développement" appears four times, while "Actualité" appears
+once. This helps us discover the Category entity (`Categorie`), with a proposed identifier
+called `id_categorie`. Its functional dependency is: `id_categorie -> nom_categorie`.
+
+
+
+
+In conclusion, the three discovered entities are Author (`Auteur`), City (`Ville`), and Category
+(`Categorie`). Each entity has its own identifier and functional dependency. At this stage, 
+we do not create relationships between the entities or build the complete database schema
