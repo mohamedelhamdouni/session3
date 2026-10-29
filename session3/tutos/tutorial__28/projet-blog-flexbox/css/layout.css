@@ -8,7 +8,7 @@
 
 .liens-navigation a { color: #6b7280; font-size: 14px; font-weight: 500; }
 
-.barre-navigation {display: flex;gap: 10%;  justify-content: space-between;}
+.barre-navigation {display: flex;gap: 10%;  justify-content: space-between; align-items: center;}
 
 .pied-de-page { margin-top: 80px; padding: 64px 24px 24px; background: rgb(249, 246, 246); border-top: 1px solid #e5e7eb;  }
 
