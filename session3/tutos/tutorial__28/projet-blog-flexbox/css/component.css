@@ -8,3 +8,4 @@
 .etiquette-categorie.rose { color: #db2777; background: #fdf2f8; }
 .etiquette-categorie.vert { color: #059669; background: #ecfdf5; }
 .grille-articles { display: flex; gap: 32px; }
+.bouton-secondaire { display: inline-block; padding: 10px 20px; color: #1f2937; background: white; border: 1px solid #e5e7eb; border-radius: 8px; font-size: 14px; font-weight: 600; text-align: center; }
